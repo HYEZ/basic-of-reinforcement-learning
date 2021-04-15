@@ -1,6 +1,6 @@
 
 # 『강화학습 첫걸음』 스터디
-- 스터디 시작 : 2020.02.05
+- 스터디 시작 : 2021.02.05
 - 스터디 목적 : Deep Reinforcement Learning 😎 공부✍️ &nbsp;&nbsp; 기초부터 차근차근😤
 
 <img width="400" alt="main" src="https://user-images.githubusercontent.com/21326503/106993228-9cad1200-67bd-11eb-8c8b-e34c9bda5572.jpg">
